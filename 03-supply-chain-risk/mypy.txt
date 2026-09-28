@@ -1,0 +1,2 @@
+solution student$ .venv/bin/mypy supply_chain_risk/ --python-version 3.13 | tee mypy.txt
+Success: no issues found in 8 source files

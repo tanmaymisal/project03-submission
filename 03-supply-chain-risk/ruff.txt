@@ -1,0 +1,2 @@
+solution student$ .venv/bin/ruff check supply_chain_risk/ tests/ | tee ruff.txt
+All checks passed!

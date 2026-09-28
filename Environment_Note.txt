@@ -1,0 +1,9 @@
+OS & Version: Linux (Vocareum Cloud Workspace)
+Python version: Python 3.13.0
+Date run: 2026-09-28
+
+How the virtual environments were set up:
+For each system, I navigated to the solution folder and ran:
+1. python3 -m venv .venv
+2. .venv/bin/pip install --upgrade pip
+3. .venv/bin/pip install -e ".[dev]"
