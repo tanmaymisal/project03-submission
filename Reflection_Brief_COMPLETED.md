@@ -24,9 +24,9 @@
 
 | Evidence | Value |
 |---       |  ---  |
-| Passing test count | |
-| Routing output file | |
-| auto_approve / human_review / spot_check counts | / / |
+| Passing test count | 9|
+| Routing output file | routing_decisions.json|
+| auto_approve / human_review / spot_check counts | / offline test fallback used/ |
 
 **1a. Retry boundary.** From your perturbation run (a required field removed), paste the escalation
 record. How many API calls did the system make, and why is retrying a futile case worse than
